@@ -1,4 +1,4 @@
-# Examen práctico – Ingeniero/a de Datos
+# Examen práctico – Ingeniero de Datos
 
 Este práctico evalúa tu capacidad para ingerir datos, modelar una dimensión de fechas, generar salidas en formatos columnar (Parquet) y calcular métricas agregadas. Usa el archivo CSV provisto: `Grocery_Inventory new v1.csv`.
 
