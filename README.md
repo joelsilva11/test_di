@@ -1,4 +1,4 @@
-# Examen práctico – Ingeniero de Datos (20 min)
+# Examen práctico – Ingeniero de Datos (20 - 30 min)
 
 Con el archivo `Grocery_Inventory new v1.csv` (en la raíz del repositorio) arma un **mini modelo dimensional** (esquema estrella) listo para ser consultado por un analista o una herramienta de BI.
 
