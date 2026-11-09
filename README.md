@@ -10,7 +10,7 @@ No buscamos un modelo perfecto, sino ver cómo razonas sobre los datos.
 3. **Construye** con Python (o SQL):
    - Una tabla de **hechos** con sus medidas.
    - Las **dimensiones** que consideres necesarias.
-   - Una **`dim_fecha`** diaria, sin huecos, que cubra el rango de fechas del modelo, con al menos: `date_key`, `date`, `year`, `quarter`, `month`, `month_name`, `day_name`.
+   - Una **`dim_fecha`** diaria, sin huecos, que cubra el rango de fechas del modelo, con al menos: `date_id`, `date`, `year`, `quarter`, `month`, `month_name`, `day_name`.
 4. **Valida el modelo:** usando tus tablas (no el CSV), calcula el valor de inventario (`Stock_Quantity × Unit_Price`) por categoría.
 
 ## Entregables
