@@ -19,6 +19,7 @@ No buscamos un modelo perfecto, sino ver cómo razonas sobre los datos.
 - Un párrafo breve (en el código o en un `.md`) con el grano, las tablas creadas y las decisiones principales.
 
 ## Reglas
+- Puedes utilizar cualquier modelo de IA para el análisis. 
 - Puedes usar Pandas, Polars, DuckDB o SQL.
 - Algunas columnas necesitan limpieza o parseo antes de usarse.
 - Si haces algún supuesto sobre los datos, anótalo; lo conversaremos en la entrevista.
